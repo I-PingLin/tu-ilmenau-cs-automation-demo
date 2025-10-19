@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+
+# Artifacts
+cs_capstone/artifacts/
+
+# OS/editor
+.DS_Store
+Thumbs.db
